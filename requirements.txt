@@ -1,0 +1,15 @@
+# GUI-Framework
+kivy>=2.3.0
+
+# IFC-Verarbeitung
+ifcopenshell>=0.7
+
+# Numerik & Daten
+numpy>=1.24
+pandas>=2.0
+
+# Tabellenbilder (Export nach PNG/Excel)
+dataframe-image>=0.2
+
+# Graphen & Diagramme
+graphviz>=0.20
