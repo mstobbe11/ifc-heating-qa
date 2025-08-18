@@ -11,3 +11,5 @@ Ziel ist es, Planungs- und Dokumentationsprozesse zu vereinfachen und die **Qual
 Die Funktionalität wurde anhand eines synthetischen Anwendungsfalls demonstriert.
 
 Zunächst wurden hier Templates für drei Systemmodelle veröffentlicht (WP mit Pufferspeicher, FWS und FBH; WP mit Pufferspeicher, FWS und Heizkörpern; WP mit Puffer- und TWW-Speicher und Heizkörpern). Insgesamt wurden 10 Systemmodelle erstellt. 
+
+DOI: https://doi.org/10.5281/zenodo.16892672
